@@ -6,3 +6,17 @@ Ejecutamos el modo predeterminado para obtener el conjunto de reglas de ET Open:
 ```
 sudo suricata-update
 ```
+![img](img/img4.png)
+
+Para mantener actualizadas las reglas de deccion haremos: 
+```
+sudo suricata-update update-sources
+
+```
+```
+sudo suricata-update list-sources
+
+```
+![img](img/img5.png)
+
+Al hacer esto se habran instalado "/var/lib/suricata/rules" con un archivo "suricata.rules":
