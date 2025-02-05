@@ -19,4 +19,18 @@ sudo suricata-update list-sources
 ```
 ![img](img/img5.png)
 
-Al hacer esto se habran instalado "/var/lib/suricata/rules" con un archivo "suricata.rules":
+Para habilitar un conjunto de reglas específico, como "oisf/trafficid":
+```
+sudo suricata-update enable-source oisf/trafficid
+```
+``` 
+sudo suricata-update
+```
+![img](img/img6.png)
+
+Ahora, si queremos visualizar las fuentes habilitadas, debemos ejecutar el siguiente comando:
+``` 
+sudo suricata-update list-enabled-sources
+```
+![img](img/img7.png)
+
