@@ -2,7 +2,7 @@
 
 ![suricata](img/Suricata_logo_600x600.png)
 
-# Que es
+# ¿ Que es ?
 
 Suricata es un motor de detección y prevención de intrusiones (IDS/IPS) y monitoreo de seguridad de red (NSM) de alto rendimiento. Es desarrollado y mantenido por la Open Information Security Foundation (OISF) y es una alternativa a Snort, con ventajas como el soporte para múltiples subprocesos (multi-threading) y una mayor capacidad de inspección de tráfico en tiempo real.
 
