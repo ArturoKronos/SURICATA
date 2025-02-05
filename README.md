@@ -12,5 +12,6 @@ Este proyecto tiene como finalidad mejorar la detección y respuesta ante evento
 
 # Material 
 
-1 [ MANUAL DE INSTALACIÓN ](Manual_de_instalacion.md) 
-1 [ ESTABLECIMIENTO DE NORMAS ](Establecimiento_de_normas.md) 
+1- [ MANUAL DE INSTALACIÓN ](Manual_de_instalacion.md) 
+
+2- [ ESTABLECIMIENTO DE NORMAS ](Establecimiento_de_normas.md) 
