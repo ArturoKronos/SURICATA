@@ -1,3 +1,3 @@
 # SURICATA
 
-![portada](img/suricata_logo_600x600.png)
+![suricata](img/Suricata_logo_600x600.png)
