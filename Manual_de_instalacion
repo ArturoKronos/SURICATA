@@ -1,1 +1,10 @@
 
+## Instalación 
+
+Instalación sobre la version: Debian 12
+
+Antes de instalar, es recomendable actualizar:
+```
+sudo apt update
+```
+Posteriormente instalaremos el paquete con el que vamos a trabajar: 
