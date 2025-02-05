@@ -15,4 +15,4 @@ Para verificar que se instaló correctamente y saber con que version estamos tra
 ```
 suricata -V
 ```
-![Foto](img1.png)
+![img](img1.png)
