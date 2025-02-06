@@ -28,3 +28,11 @@ Para activar las notificaciones en Telegram, solo sigue estos pasos y ejecuta el
 ✅ Se mejora la ejecución de curl para evitar problemas de formato.
 
 ✅ Se cambia eval "$curl_command" por una ejecución directa más segura.
+
+-2 Modificamos los parametros telegram_bot_token y chat_id. 
+
+ -3 Configura un cron para ejecutar el script con la frecuencia que mejor se adapte a tus necesidades.
+ ```
+Crontab -e
+```
+Siguiendo estos pasos, Suricata enviará alertas a través de Telegram de acuerdo con la configuración definida. No olvides ajustar la frecuencia del cron y otros parámetros según tus necesidades y preferencias.
