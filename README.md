@@ -18,9 +18,9 @@ Este proyecto tiene como finalidad mejorar la detección y respuesta ante evento
 
 3- [ CONFIGURAR ALERTAS EN TELEGRAM ](Configurar_alertas_en_telegram.md) 
 
- # AUTOR
- [Arturo Kronos Fernández Curiel ](https://github.com/ArturoKronos)
-
  # GRACIAS POR SU TIEMPO! ESPERO QUE HAYA SIDO ÚTIL ;)
 
  ![maz](img/maz.jpg)
+
+ # AUTOR
+ [Arturo Kronos Fernández Curiel ](https://github.com/ArturoKronos)
