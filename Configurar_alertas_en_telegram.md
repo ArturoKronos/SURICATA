@@ -12,4 +12,13 @@ En el siguiente enlace tenemos un video hecho por mi de la creacion del bot en  
 [MIRA COMO CREAMOS EL BOT Y SUS MULTIPES USOS ](https://www.youtube.com/watch?v=3ZwDs3u6pHc)
 
 ## Configuración de la alerta: 
+Para activar las notificaciones en Telegram, solo sigue estos pasos y ejecuta el script proporcionado (bobito.sh), que viene en este repositorio.
 
+### Pasos:
+-1 Copia el script bobito.sh en el directorio /etc/suricata. [SCRIPT](script.md)
+  -Expecificaciones:
+✅ Validación de existencia de archivos antes de procesarlos.
+✅ Se eliminan espacios extra innecesarios en los archivos de log.
+✅ Se agregan comentarios más claros.
+✅ Se mejora la ejecución de curl para evitar problemas de formato.
+✅ Se cambia eval "$curl_command" por una ejecución directa más segura.
