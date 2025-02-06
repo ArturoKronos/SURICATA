@@ -32,5 +32,20 @@ Ahora, si queremos visualizar las fuentes habilitadas, debemos ejecutar el sigui
 ``` 
 sudo suricata-update list-enabled-sources
 ```
+```
+sudo suricata-update enable-source ptresearch/attackdetection
+```
 ![img](img/img7.png)
+
+Para ver las fuentes habilitadas:
+```
+sudo suricata-update list-enabled-sources
+```
+![img](img/img8.png)
+
+Por último, para guardar los cambios y obtener las reglas activadas:
+```
+sudo suricata-update
+```
+![img](img/img9.png)
 
