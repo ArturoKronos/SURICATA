@@ -16,7 +16,9 @@ Para activar las notificaciones en Telegram, solo sigue estos pasos y ejecuta el
 
 ### Pasos:
 -1 Copia el script bobito.sh en el directorio /etc/suricata. [SCRIPT](script.md)
+ 
   -Expecificaciones:
+  
 ✅ Validación de existencia de archivos antes de procesarlos.
 
 ✅ Se eliminan espacios extra innecesarios en los archivos de log.
