@@ -15,3 +15,5 @@ Este proyecto tiene como finalidad mejorar la detección y respuesta ante evento
 1- [ MANUAL DE INSTALACIÓN ](Manual_de_instalacion.md) 
 
 2- [ ESTABLECIMIENTO DE NORMAS ](Establecimiento_de_normas.md) 
+
+3- [ CONFIGURAR ALERTAS EN TELEGRAM ](Configurar_alertas_en_telegram.md) 
